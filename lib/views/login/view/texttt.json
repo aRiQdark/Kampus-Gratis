@@ -1,0 +1,13 @@
+{
+    "users": {
+        "Email": "(String)",
+        "Alamat": "(String)",
+        "password": "(String)",
+        "phoneNumber": "(integer)",
+        "role": "(String)"
+    }
+}
+
+
+
+

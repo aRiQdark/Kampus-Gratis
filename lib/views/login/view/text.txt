@@ -1,0 +1,11 @@
+“stokbarang”:{
+  "id_brg":"(int)",
+     "Jdl_brg":" (String)",
+      "Harga_brg":" (int)",
+      "Deskripsi":" (String)",
+      "Jam_rilis":" (DateTime)",
+       "img":" (String)",
+       "status_brg":" (String)",
+       "sisa_stok":"(String)",
+       "berat":"(String)"
+}

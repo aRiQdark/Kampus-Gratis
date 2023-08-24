@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "36215335171",
+    "firebase_url": "https://kampus-gratis2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kampus-gratis2",
+    "storage_bucket": "kampus-gratis2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36215335171:android:96254011eddfc9593aa136",
+        "android_client_info": {
+          "package_name": "com.example.kampus_gratis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36215335171-24qf8klfegt7cdtmoosg04ndtl1bjc3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "4f38a1d3db6a0194c42056b24cbe0ec88a5b1a63"
+          }
+        },
+        {
+          "client_id": "36215335171-63vv53e37bfm0sl7phs4jsm4lkbub5ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "0eb6b967a543c9f36408f8d28e639a917e4108a2"
+          }
+        },
+        {
+          "client_id": "36215335171-76a11nh570qnt70lck9embh82lbni7cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "5d41ebd7a3914563856dfedfa9b504f618531f40"
+          }
+        },
+        {
+          "client_id": "36215335171-9a2c7gnh88jvkoo8th5qqcp7kq5o8gse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "9c60aaa13cd94e6ba1bf712d0694e559232af124"
+          }
+        },
+        {
+          "client_id": "36215335171-blrka54rci611kkrdonklauh7btegrgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "3fc1d079828d622f9a6c1b404d56b292bf4f5fab"
+          }
+        },
+        {
+          "client_id": "36215335171-u1aklcn8t5vqd4cfbql0qoqg3i8i7l0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kampus_gratis",
+            "certificate_hash": "9590945c5e866ec32d3c6752129b434dd9c147a2"
+          }
+        },
+        {
+          "client_id": "36215335171-h8vmkdsao57cb87giq2nvjc5vkt90n07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xMlk09-Skzzr-Jt77ZQEFPYSX8VcsLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36215335171-h8vmkdsao57cb87giq2nvjc5vkt90n07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36215335171-n8h12q03dfmq0o9bqu07b424h4uspkm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kampusGratis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
